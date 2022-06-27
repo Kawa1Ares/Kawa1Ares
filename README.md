@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm KawaiiAres, a Java/Kotlin developer.
+### I'm KawaiiAres, a Java/Kotlin developer.
